@@ -10,7 +10,7 @@
 
 Virtual Environment should be used whenever you work on any Python-based project. It is generally good to have one new virtual environment for every Python-based project you work on. So the dependencies of every project are isolated from the system and each other.
 
-After clonning the repository, please follow the below commands.
+Please follow the below commands.
 ```bash
 $ pip install virtualenv
 $ virtualenv --version
