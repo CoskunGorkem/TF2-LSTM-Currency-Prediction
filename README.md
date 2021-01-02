@@ -19,7 +19,7 @@ $ python3 -m venv tf2-lstm
 $ . tf2-lstm/bin/activate
 $ cd [where you want to clonne the repository]
 $ git clone https://github.com/CoskunGorkem/TF2-LSTM-Currency-Prediction.git
-$ cd OpenCV
+$ cd TF2-LSTM-Currency-Prediction
 $ pip install -r requirements.txt
 ```
 
