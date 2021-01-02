@@ -4,7 +4,7 @@
 
 - In this repository, you can find TensorFlow 2 implementation of both CuDNNLSTM and LSTM for GPU and CPU respectively. 
 
-<img src="results.png" width = "400" >
+<img src="results.png" width = "800" >
 
 ### Step-by-step Installation Instructions
 
